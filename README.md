@@ -8,4 +8,4 @@ pip install pyautogui
 How to use:
 1) Run the script.
 2) After running the script, quickly go to the basketball minigame and enter the minigame.
-3) The game will say to "press x to start', however the script will do that for you.
+3) The game will say to "press x to start", however the script will do that for you.
