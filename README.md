@@ -1,8 +1,9 @@
 # ff7BasketballAutomation
 This will automate the basketball minigame in Final Fantasy 7 PC version.
 
-Requirements:
+
 To run this script, pyautogui is needed. To install this, enter this command on powershell
+
 pip install pyautogui
 
 How to use:
